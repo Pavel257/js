@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log(3.14*5),console.log(3),document.write("Hello, pack!!!!!55")})();
