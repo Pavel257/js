@@ -1,0 +1,20 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" },
+    { "id": 2, "title": "webpack", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "Hello SkillFactory!)", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" },
+  "contacts": [
+    { "id": 1, "name": "Piter", "email": "piter@example.com", "phone": "+7999999999" },
+    { "id": 2, "name": "Theodor", "email": "theodor@example.com", "phone": "+7999992569" },
+    { "id": 3, "name": "Kate", "email": "kater@example.com", "phone": "+79995515216" },
+    { "id": 4, "name": "Alis", "email": "Norton@example.com", "phone": "+79992263636" },
+    { "id": 5, "name": "Taras", "email": "thhat@example.com", "phone": "+79996442626" },
+    { "id": 6, "name": "Janya", "email": "jjj8626@gmail.com", "phone": "+79996326169" },
+    { "id": 7, "name": "Kim", "email": "kimkim@example.com", "phone": "+79995943699" },
+    { "id": 8, "name": "Roman", "email": "exterminator@example.com", "phone": "+79998968936" }
+  ]
+}
